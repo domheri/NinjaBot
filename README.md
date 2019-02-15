@@ -1,1 +1,2 @@
-# NinjaBot
+# plus
+plus bot
